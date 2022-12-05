@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,300&display=swap'); 
+
+body{
+    box-sizing: border-box;
+    padding: 30px 30px;
+}
+
+.title__github{
+    font-family: 'Roboto', sans-serif;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: light;
+}
